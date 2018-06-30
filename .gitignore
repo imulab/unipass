@@ -1,0 +1,6 @@
+.DS_Store
+
+authorization-service/.gradle/*
+authorization-service/gradle/*
+authorization-service/.idea/*
+authorization-service/build/*
